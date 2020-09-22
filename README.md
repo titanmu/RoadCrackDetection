@@ -20,7 +20,9 @@ Since, you already downloaded the models in Step 3. Proceed to Step 5-6 for Test
 Step 5: cd into Test1and2 folder and run the following python files separately by passing individual models (downloaded from Step 3) and by inserting the correct path of the models within these files:
 
 trial.py: jpvl54.pt
+</br>
 trial_Czech.py:  jc66.pt
+</br>
 trial_india.py: last_india_new.pt
 
 # test2
@@ -30,6 +32,7 @@ Step 6: Within the same folder Test1and2, you will need to pass different models
 trial2.py: jpvl54.pt
 </br>
 trial_Czech2.py:  jc66.pt
+</br>
 trial_india2.py: last_india_new.pt
 
 
