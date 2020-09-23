@@ -53,7 +53,7 @@ After running these files, an output .txt file would be generated with the name:
 Note: Pass the appropriate model weights path in line 31 and the appropriate test datasets filenames/path in line 160.
 
 # Contact
-</br>
+
 For general inquirie, contact either Vishal Mandal (vmghv@mail.missouri.edu) or, Yaw Adu-Gyamfi (adugyamfiy@missouri.edu)
 
 
