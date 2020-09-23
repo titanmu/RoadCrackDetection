@@ -22,12 +22,16 @@ Step 5: cd into Test1and2 folder and run the following python files separately b
 
 trial.py: jpvl54.pt
 </br>
+
 trial_Czech.py:  jc66.pt
 </br>
+
 trial_india.py: last_india_new.pt
 </br>
+
 After running these files, an output .txt file would be generated with the name: tttt3_new.txt. It contains the results for test1. 
 </br>
+
 Note: Pass the appropriate model weights path in line 31 and the appropriate test datasets filenames/path in line 160.
 
 # test2
@@ -36,13 +40,16 @@ Step 6: Within the same folder Test1and2, you will need to pass different models
 
 trial2.py: jc66.pt
 </br>
+
 trial_Czech2.py:  jpvl54.pt
 </br>
+
 trial_india2.py: last_india_new.pt
 </br>
 
 After running these files, an output .txt file would be generated with the name: ttt3_test2.txt. It contains the results for test2.
 </br>
+
 Note: Pass the appropriate model weights path in line 31 and the appropriate test datasets filenames/path in line 160.
 
 
