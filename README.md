@@ -18,7 +18,7 @@ Since, you already downloaded the models in Step 3. Proceed to Step 5-6 for Test
 
 # test1
 
-Step 5: cd into Test1and2 folder and run the following python files separately by passing individual models (downloaded from Step 3) and by inserting the correct path of the models within these files:
+Step 5: Run the following python files separately by passing individual models (downloaded from Step 3) and by inserting the correct path of the models within these files:
 
 trial.py: jpvl54.pt
 </br>
@@ -36,7 +36,7 @@ Note: Pass the appropriate model weights path in line 31 and the appropriate tes
 
 # test2
 
-Step 6: Within the same folder Test1and2, you will need to pass different models into the following files to test on 'test2' dataset. Here are the following files and you will need to change the models as per the information detailed below:
+Step 6: Now, you will need to pass different models into the following files to test on 'test2' dataset. Here are the following files and you will need to change the models as per the information detailed below:
 
 trial2.py: jc66.pt
 </br>
