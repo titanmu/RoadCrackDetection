@@ -54,6 +54,6 @@ Note: Pass the appropriate model weights path in line 31 and the appropriate tes
 
 # Contact
 
-For general inquirie, contact either Vishal Mandal (vmghv@mail.missouri.edu) or, Yaw Adu-Gyamfi (adugyamfiy@missouri.edu)
+For general inquiries, contact either Vishal Mandal (vmghv@mail.missouri.edu) or, Yaw Adu-Gyamfi (adugyamfiy@missouri.edu)
 
 
