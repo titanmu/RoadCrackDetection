@@ -1,0 +1,20 @@
+# COCO 2017 dataset http://cocodataset.org - first 128 training images
+# Download command:  python -c "from yolov5.utils.google_utils import gdrive_download; gdrive_download('1n_oKgR81BJtqk75b00eAjdv03qVCQn2f','coco128.zip')"
+# Train command: python train.py --data ./data/coco128.yaml
+# Dataset should be placed next to yolov5 folder:
+#   /parent_folder
+#     /coco128
+#     /yolov5
+
+
+# train and val datasets (image directory or *.txt file with image paths)
+train: /home/ai/bigDataComp/Trainer/tdata/yolov5/
+val: /home/ai/bigDataComp/Trainer/tdata/yolov5/
+
+# number of classes
+nc: 7
+#nc: 4
+
+# class names
+names: ['D00','D10','D20','D40','D43','D44','D50']
+#names: ['D00','D10','D20','D40']
