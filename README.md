@@ -1,4 +1,4 @@
-# Automatic Pavement Crack Detection for Japan, Czech Republic and India Datasets
+# Automatic Pavement Crack Detection for Japan, Czech Republic and India
 
 Step 1: Download the complete repository 
 
