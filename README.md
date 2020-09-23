@@ -25,15 +25,24 @@ trial.py: jpvl54.pt
 trial_Czech.py:  jc66.pt
 </br>
 trial_india.py: last_india_new.pt
+</br>
+After running these files, an output .txt file would be generated with the name: tttt3_new.txt. It contains the results for test1. 
+</br>
+Note: Pass the appropriate model weights path in line 31 and the appropriate test datasets filenames/path in line 160.
 
 # test2
 
 Step 6: Within the same folder Test1and2, you will need to pass different models into the following files to test on 'test2' dataset. Here are the following files and you will need to change the models as per the information detailed below:
 
-trial2.py: jpvl54.pt
+trial2.py: jc66.pt
 </br>
-trial_Czech2.py:  jc66.pt
+trial_Czech2.py:  jpvl54.pt
 </br>
 trial_india2.py: last_india_new.pt
+</br>
+
+After running these files, an output .txt file would be generated with the name: ttt3_test2.txt. It contains the results for test2.
+</br>
+Note: Pass the appropriate model weights path in line 31 and the appropriate test datasets filenames/path in line 160.
 
 
