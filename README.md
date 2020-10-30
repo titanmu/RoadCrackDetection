@@ -56,10 +56,8 @@ Note: Pass the appropriate model weights path in line 31 and the appropriate tes
 
 The methods and the applicability of this research is further explained in our [PAPER](https://arxiv.org/abs/2010.10681) 
 </br>
-</br>
 
 If you find this project useful for your research, please use the following BibTeX entry to cite our work:
-</br>
 </br>
 
 @article{mandal2020deep,
