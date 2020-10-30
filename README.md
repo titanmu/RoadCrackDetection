@@ -52,6 +52,20 @@ After running these files, an output .txt file would be generated with the name:
 
 Note: Pass the appropriate model weights path in line 31 and the appropriate test datasets filenames/path in line 160.
 
+# Citation
+
+The methods and the applicability of this research is further explained in our [PAPER](https://arxiv.org/abs/2010.10681) 
+</br>
+If you find this project useful for your research, please use the following BibTeX entry to cite our work:
+</br>
+
+@article{mandal2020deep,
+  title={Deep Learning Frameworks for Pavement Distress Classification: A Comparative Analysis},
+  author={Mandal, Vishal and Mussah, Abdul Rashid and Adu-Gyamfi, Yaw},
+  journal={arXiv preprint arXiv:2010.10681},
+  year={2020}
+}
+ 
 # Contact
 
 For general inquiries, contact either Vishal Mandal (vmghv@mail.missouri.edu) or, Yaw Adu-Gyamfi (adugyamfiy@missouri.edu)
